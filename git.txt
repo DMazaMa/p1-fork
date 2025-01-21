@@ -1,0 +1,7 @@
+Comandos de Git:
+1. git clone <url>: Clona el repositorio remoto en el equipo local.
+2. git status: Muestra el estado actual del repositorio, como archivos modificados o pendientes de ser añadidos.
+3. git add <archivo>: Añade el archivo al área de preparación.
+4. git commit -m "mensaje": Guarda los cambios con un mensaje descriptivo de los cambios realizados o detalles que quieras incluir.
+5. git push: Envía los cambios al repositorio remoto en GitHub.
+6. git checkout -b <rama>: Crea y cambia a una nueva rama.
