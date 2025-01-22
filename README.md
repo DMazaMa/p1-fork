@@ -10,14 +10,12 @@ A continuación, se explican los comandos básicos usados en esta práctica. Par
 
     git clone <url>
         Clona un repositorio de GitHub en mi ordenador.
-        Más detalles en git.txt
 
     git status
         Muestra el estado del repositorio local: cambios realizados, archivos añadidos, etc.
 
     git add <archivo>
         Prepara los archivos para ser guardados en el próximo commit.
-        Más detalles en git.txt
 
     git commit -m "mensaje"
         Guarda los cambios con un mensaje que explica qué se hizo.
@@ -33,14 +31,13 @@ A continuación, se explican los comandos básicos usados en esta práctica. Par
 1. Java 17
 
     Instalé Java 17 para utilizarlo en futuros proyectos de desarrollo.
-    Comprobé que la instalación fue exitosa ejecutando java --version en la terminal.
-    Captura de la terminal:
+    Comprobé que la instalación fue exitosa ejecutando java --version en la terminal. Véase en java_evidencia.png.
 
 2. Maven
 
     Instalé Maven como herramienta de gestión de proyectos Java.
-    Verifiqué la instalación ejecutando mvn --version.
-    Captura de la terminal:
+    Verifiqué la instalación ejecutando mvn --version en la terminal. Véase en mvn_evidencia.png.
+
 
 3. Visual Studio Code
 
@@ -50,7 +47,7 @@ A continuación, se explican los comandos básicos usados en esta práctica. Par
 
     - Archivo git.txt: Contiene la explicación de los comandos básicos de Git.
 
-    - Capturas de pantalla: Evidencia de instalación de Java y Maven en imágenes adjuntas
+    - Capturas de pantalla: Evidencia de instalación de Java y Maven en imágenes adjuntas java_evidencia.png y mvn_evidencia.png.
 
 
 # Entrega de la práctica
@@ -69,4 +66,4 @@ https://github.com/DMazaMa/p1-fork
 
 Conclusión
 
-Con esta práctica he aprendido los fundamentos de Git, GitHub y he configurado correctamente mi entorno de desarrollo. Esta base me permitirá realizar futuras prácticas de manera más eficiente y organizada. Especialnete adaptar los conocimientos de clase para realmente saber su aplicación práctica y la instalación en local para que sea mas cómodo realizar todo en un futuro como se me indicó en clase.
+Con esta práctica he aprendido los fundamentos de Git, GitHub y he configurado correctamente mi entorno de desarrollo. Esta base me permitirá realizar futuras prácticas de manera más eficiente y organizada. Especialnete adaptar los conocimientos de clase para realmente saber su aplicación práctica y la instalación en local para que sea mas cómodo realizar todo en un futuro como se me indicó en clase. 
